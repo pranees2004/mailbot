@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+email_agent.db
+email_agent.log
+*.py(1).py
+*.py(2).py
+*.py(3).py
+*.py(4).py
+*.py(5).py
